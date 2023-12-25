@@ -1,0 +1,1 @@
+# Salary Prediction a simple machine learning project
